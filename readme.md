@@ -7,6 +7,8 @@ This project explores the K-pop industry by analyzing and visualizing public ava
 - What is the median age of idols when they debuted?
 - Aside from South Korean, what other nationality debuted in the industry?
 
+Visit [this page](https://nbviewer.org/github/linhpbui/kpop-eda/blob/main/analysis.ipynb) to see the interactive graphs.
+
 ## Methodology
 This Exploratory Data Analysis project is done on Python. The datasets were taken from [dbkpop](https://dbkpop.com/).
 
