@@ -1,3 +1,4 @@
+# K-Pop in numbers: Exploring K-Pop beyond its stunning and extravagant visuals 
 ## Overview
 This project explores the K-pop industry by analyzing and visualizing public available data to answer these following questions:
 - How many entertainment companies are there?
