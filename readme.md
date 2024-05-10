@@ -18,4 +18,4 @@ This Exploratory Data Analysis project is done on Python. The datasets were take
 - More female idols debuted at much younger ages than male idols, and very few female idols debuted after the age of 23. 
 - As K-pop expands, companies have more idols who aren't South Koreans to appeal to the international market, particularly from Japan and China.
 
-I wrote a blog on the results, which can be read [here](https://linhpbui.com/side-work/kpop/).
+I wrote a blog on the results, which can be read [here]([https://linhpbui.com/side-work/kpop/](https://linhpbui.com/playground/kpop/)).
